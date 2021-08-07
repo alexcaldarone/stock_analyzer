@@ -1,4 +1,4 @@
-# stock_analyzer
+# :chart_with_upwards_trend: Streamlit stock analyzer
 A streamlit app to view information about stocks.
 
 The user inserts a ticker and, using the yahooquery package, the app returns information on the company.
